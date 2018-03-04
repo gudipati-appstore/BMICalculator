@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="very_severely_underweight" />
+    <string name="severely_underweight" />
+    <string name="underweight" />
+    <string name="normal" />
+    <string name="overweight" />
+    <string name="obese_class_i" />
+    <string name="obese_class_ii" />
+    <string name="obese_class_iii" />
+    <string name="weight">Weight</string>
+    <string name="weight_in_kg">Weight in Kg\'s...</string>
+    <string name="height_in_cm_s">Height in Cm\'s...</string>
+    <string name="if_bmi_level_is_under_1_to_18_5_under_weight">If Bmi level is under 1 to 18.5 : Under Weight.</string>
+    <string name="bmi_level_reference_table">BMI Level Reference Table</string>
+    <string name="if_bmi_level_is_under_19_to_24_9_normal">If Bmi level is under 19 to 24.9 : Normal.</string>
+    <string name="if_bmi_level_is_under_24_9_to_29_9_you_have_fat">If Bmi level is under 24.9 to 29.9 : Please burn some calories.</string>
+    <string name="if_bmi_level_is_under_30_to_35_9_obessity_level_1">If Bmi level is under 30 to 35.9 : Obessity Level-1.</string>
+    <string name="if_bmi_level_is_under_36_to_40_9_obessity_level_2">If Bmi level is under 36 to 40.9 : Obessity Level-2.</string>
+    <string name="if_bmi_level_is_crossed_41_you_are_in_danger">If Bmi level is Crossed 41 : Please consult doctor immediately.</string>
+</resources>
